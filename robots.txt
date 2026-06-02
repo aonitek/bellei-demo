@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aonitek.github.io/bellei-demo/sitemap.xml
